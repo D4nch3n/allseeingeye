@@ -1,2 +1,2 @@
-# allseeingeye
-#TODO
+# networkeye
+this aims to bring tcpview onto GNU Linux systems onto the command line. It is currently in development
